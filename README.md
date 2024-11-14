@@ -69,9 +69,13 @@ This is a **sample post** written in MDX!
 
 #### 📚 Technologies Used
 Gatsby: Framework for fast, optimized static sites.
+
 React: JavaScript library for building user interfaces.
+
 MDX: Combines Markdown and JSX to enable interactive content.
+
 TailwindCSS: Utility-first CSS framework for responsive design.
+
 Netlify: Platform for easy deployment and hosting.
 
 #### 📄 License
