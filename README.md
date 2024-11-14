@@ -1,6 +1,8 @@
 # 📝 Gatsby MDX Blog #
 ### A modern blog built with Gatsby, React, and MDX. This project leverages the power of Gatsby for fast static site generation, MDX for combining Markdown with React components, and TailwindCSS for responsive design. ###
 
+### https://hilarious-boba-d1549e.netlify.app/
+
 #### 🌟 Features
 
 MDX Integration: Write blog posts in Markdown with embedded React components for interactivity.
